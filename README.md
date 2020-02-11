@@ -6,7 +6,7 @@ Tested with docsify version: 4.10.2
 
 ## Demo
 
-[URL](https://sushantrahate.github.io/docsify-darkly/#/)
+[URL](https://sushantrahate.github.io/docsify-darkly-theme/#/)
 
 ## License
 
