@@ -1,3 +1,7 @@
+/*!
+ * Darkly - Dark theme for docsify
+ * Report bug/feature: https://github.com/sushantrahate/docsify-darkly-theme
+*/
 @import url('https://fonts.googleapis.com/css?family=Roboto+Mono|Source+Sans+Pro:300,400,600');
 * {
   -webkit-font-smoothing: antialiased;
@@ -458,7 +462,7 @@ body.close .content {
     transform: translateX(300px);
   }
   body.close .sidebar-toggle {
-    background-color: hsla(0, 0%, 100%, 0.8);
+    background-color: hsla(0, 0%, 13%, 0.8);
     transition: background-color 1s;
     width: 284px;
     padding: 10px;
@@ -577,11 +581,12 @@ section.cover .cover-main > p:last-child a {
 }
 section.cover .cover-main > p:last-child a:last-child {
   background-color: var(--theme-color, #00bc8c);
-  color: #fff;
+  color: #e5e5e5;
 }
 section.cover .cover-main > p:last-child a:last-child:hover {
   color: inherit;
   opacity: 0.8;
+  color: #e5e5e5;
 }
 section.cover .cover-main > p:last-child a:hover {
   color: inherit;
