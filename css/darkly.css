@@ -642,7 +642,7 @@ body {
   font-weight: 600;
 }
 .markdown-section a {
-  color: var(--theme-color, #00bc8c);
+  color: #2973b7;
   font-weight: 600;
 }
 .markdown-section h1 {
