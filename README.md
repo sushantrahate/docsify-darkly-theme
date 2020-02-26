@@ -1,5 +1,9 @@
 # Darkly
 
+<p align="left">
+<a href="CONTRIBUTING.md"><img alt="Contributions to docsify-darkly-theme are welcomed" src="https://img.shields.io/badge/contributions-welcome-brightgreen?style=flat-square"></a>
+</p>
+
 Dark theme for [docsify](https://docsify.js.org/#/)
 
 > [Preview](https://sushantrahate.github.io/docsify-darkly-theme/#/)
