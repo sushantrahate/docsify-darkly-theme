@@ -2,7 +2,7 @@
  * Darkly - Dark theme for docsify
  * Report bug/feature: https://github.com/sushantrahate/docsify-darkly-theme
 */
-@import url('https://fonts.googleapis.com/css?family=Roboto+Mono|Source+Sans+Pro:300,400,600');
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono|Source+Sans+Pro:300,600');
 * {
   -webkit-font-smoothing: antialiased;
   -webkit-overflow-scrolling: touch;
@@ -76,7 +76,7 @@ body {
   /* color: #34495e; */
   color: #bbc0c4;
   font-family: Source Sans Pro, Helvetica Neue, Arial, sans-serif;
-  font-size: 15px;
+  font-size: 16px;
   letter-spacing: 0;
   margin: 0;
   overflow-x: hidden;
@@ -243,6 +243,7 @@ main.hidden {
 .sidebar > h1 a {
   color: inherit;
   text-decoration: none;
+  font-weight: 600;
   color: #4c9a87;
 }
 .sidebar > h1 .app-nav {
@@ -611,7 +612,7 @@ body {
 .sidebar ul li a {
   color: #007054;
   font-size: 14px;
-  font-weight: 400;
+  font-weight: 600;
   overflow: hidden;
   text-decoration: none;
   text-overflow: ellipsis;
@@ -626,6 +627,7 @@ body {
 .sidebar ul li.active > a {
   border-right: 2px solid;
   color: var(--theme-color, #00bc8c);
+  font-size: 16px;
   font-weight: 600;
 }
 .app-sub-sidebar li:before {
