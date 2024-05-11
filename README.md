@@ -19,7 +19,7 @@ Add `darkly.css` file in your `index.html` instead of default style.
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/sushantrahate/docsify-darkly-theme/css/darkly.min.css">
 ```
 
-Tested with docsify version: 4.10.2
+Tested with docsify version: 4.13.1
 
 ## License
 
