@@ -21,6 +21,8 @@ Add `darkly.css` file in your `index.html` instead of default style.
 
 Tested with docsify version: 4.13.1
 
+If you liked it then please show your love by ⭐ the repo
+
 ## License
 
 This project is licensed under the The Unlicense License. See the [LICENSE](https://github.com/sushantrahate/docsify-darkly/blob/master/LICENSE) for details.
